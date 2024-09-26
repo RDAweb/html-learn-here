@@ -1,0 +1,155 @@
+body{
+    background-color: gray;
+}
+.headings{
+    background-color: black;
+    width: 80%;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+}
+
+.headings h1,h2,h3,h4,h5,h6 {
+    padding: 20px;
+}
+
+.basichtmlcode{
+    width: 80%;
+    background-color: black;
+    justify-content: center;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    margin: 0 auto;
+    text-align: center;
+}
+.basichtmlcode,.paragraph,.herf,.imageadd,.lists,.loginorregister,.divandspan,.elements,.audio h1{
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+}
+.imagetk{
+    background-color: black;
+    margin: 50px;
+}
+
+.paragraph{
+    width: 80%;
+    margin: 0 auto;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.paragraph p{
+    padding: 20px;
+}
+
+.herf{
+    background-color: black;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    height: 100px;
+}
+
+.imageadd{
+    background-color: black;
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+}
+
+.imageadd img{
+    padding: 20px;
+}
+
+.lists{
+    background-color: black;
+    width: 80%;
+    margin: 0 auto;
+    color: white;
+}
+
+.lists h3 {
+    position: relative;
+    color: white;
+}
+
+.tablesishere{
+    background-color: black;
+    width: 80%;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+}
+
+.tablesishere table{
+    border: 2px solid white;
+    position: relative;
+    left: 260px;
+    padding: 10px;
+    margin: 20px;
+}
+.tablesishere table tr{
+    border: 2px solid white;
+}
+.tablesishere table tr th{
+    border: 2px solid white;
+    padding: 10px;
+}
+.tablesishere table tr td{
+    border: 2px solid white;
+    padding: 10px;
+}
+
+.loginorregister{
+    background-color: black;
+    width: 80%;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+}
+
+
+.loginorregister form{
+    align-items: center;
+}
+
+.divandspan{
+    background-color: black;
+    width: 80%;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+}
+
+.elements{
+    background-color: black;
+    width: 80%;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+}
+.audio{
+    background-color: black;
+    width: 80%;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+}
+.iframevideo{
+    background-color: black;
+    width: 80%;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+}
+.buttonhere{
+    background-color: black;
+    width: 80%;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+    height: 140px;
+}
